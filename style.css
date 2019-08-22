@@ -15,7 +15,8 @@ h1 {
 }
 
 html {
-    background-color: darkblue;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,2,168,1) 100%);
 }
 
 label {
@@ -26,20 +27,20 @@ label {
 }
 
 input {
-    background-color: darkblue;
+    background-color: rgb(9, 5, 87);
     color: lightcyan;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 5px;
     margin-top: 3%;
 }
 
 button {
-    margin-top: 5%;
-    margin-right: 35%;
-    margin-left: 35%;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
     font-size: 25px;
-    border-radius: 5px;
-    background-color: darkblue;
+    border-radius: 15px;
+    background-color: rgb(9, 5, 87);
     color: lightcyan;
     padding: 2px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
