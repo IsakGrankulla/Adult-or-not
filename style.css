@@ -1,0 +1,52 @@
+#form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: lightcyan;
+    margin-top: 15%;
+}
+
+html {
+    background-color: darkblue;
+}
+
+label {
+    color: lightcyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+input {
+    background-color: darkblue;
+    color: lightcyan;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 3%;
+}
+
+button {
+    margin-top: 5%;
+    margin-right: 35%;
+    margin-left: 35%;
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: lightcyan;
+    padding: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#result {
+    color: lightcyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
